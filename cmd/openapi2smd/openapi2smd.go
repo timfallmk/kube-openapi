@@ -20,7 +20,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/googleapis/gnostic/OpenAPIv2"
+	"github.com/googleapis/gnostic/openapiv2"
 	"github.com/googleapis/gnostic/compiler"
 	yaml "gopkg.in/yaml.v2"
 
